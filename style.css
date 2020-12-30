@@ -1,0 +1,25 @@
+div {
+      background-image: url('pongbackground1.jpg');
+      background-repeat: round;
+      height: 800px;
+}
+
+canvas {
+      padding-left: 17%;
+}
+
+div h1 {
+      text-align: center;
+      color: yellow;
+      padding-top: 10px;
+}
+
+div h2 {
+      text-align: center;
+      color: yellow;
+      font-size: 25px;
+}
+
+div h2:hover {
+      cursor: pointer;
+}
